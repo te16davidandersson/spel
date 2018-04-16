@@ -1,1 +1,1 @@
-# spel
+Jag ska göra ett spel där spelaren är en boll eller liknande och har en pistol. Det kommer flyga omkring bollar eller andra former i olika former på skärmen som spawnar in varje sekund, om du blir träffad av ett sådant objekt så dör du.
